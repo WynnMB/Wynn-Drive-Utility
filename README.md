@@ -1,5 +1,5 @@
 # Wynn-Drive-Utility
-This is miniOS-linux/driveutility with my 1MiB alignment patch.
+This is miniOS-linux/driveutility v1.7.2 with my 1MiB alignment patch.
 https://github.com/minios-linux/driveutility
 The miniOS driveutility is a fork of LinuxMint's mintstick.
 It is better than mintstick as it combines the ISO writer and formatter programs into one.
