@@ -11,3 +11,5 @@ The only thing it can't do is write GPT partition tables or format a drive to ha
 Use the Gnome Disks app for those instead.
 
 Download Here https://github.com/WynnMB/Wynn-Drive-Utility/raw/refs/heads/main/WynnDriveUtility.deb
+
+This has been tested to work with Debian13.
