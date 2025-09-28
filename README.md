@@ -9,3 +9,5 @@ It also supports creating disk images unlike mintstick.
 It also supports writing disk images in more formats than just ISO. Unlike mintstick.
 The only thing it can't do is write GPT partition tables or format a drive to have more than one partition.
 Use the Gnome Disks app for those instead.
+
+Download Here https://github.com/WynnMB/Wynn-Drive-Utility/raw/refs/heads/main/WynnDriveUtility.deb
